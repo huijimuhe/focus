@@ -2,11 +2,10 @@
 
 ##Intro
 
-![](https://github.com/huijimuhe/monolog/blob/master/screenshot/1.jpg)
-![](https://github.com/huijimuhe/monolog/blob/master/screenshot/2.jpg)
-![](https://github.com/huijimuhe/monolog/blob/master/screenshot/3.jpg)
-![](https://github.com/huijimuhe/monolog/blob/master/screenshot/4.jpg)
-![](https://github.com/huijimuhe/monolog/blob/master/screenshot/5.jpg)
+![](https://github.com/huijimuhe/focus/blob/master/screenshot/scene1.png)
+![](https://github.com/huijimuhe/focus/blob/master/screenshot/scene2.png)
+![](https://github.com/huijimuhe/focus/blob/master/screenshot/scene3.png)
+![](https://github.com/huijimuhe/focus/blob/master/screenshot/scene4.png) 
 
 focus is a plugin of AccessibilityService,you can try it [here](http://http://fir.im/focus)
 
