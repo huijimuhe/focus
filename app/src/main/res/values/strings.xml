@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">抬头君</string>
+    <string name="app_version">1.0</string>
+    <string name="server_description">(ฅ´ω`ฅ)操作指南(ฅ´ω`ฅ)\n\n抬头君想让你体验自己下决心关掉应用的心情\n如果你觉得抬头君的idea好玩\n关注公众号\n懒文『lanwenapp』，发掘更多脑洞</string>
+    <string name="app_description">抬头君想让你体验自己下决心关掉应用的心情\n如果你觉得抬头君的idea好玩，\n关注公众号\n懒文『lanwenapp』，发掘更多脑洞</string>
+    <string name="service_status">当前辅助服务状态:</string>
+    <string name="service_name">去设置</string>
+    <string name="preference">设置</string>
+    <string name="service_off">关闭插件</string>
+    <string name="service_on">开启插件</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+       test: ca-app-pub-3940256099942544/6300978111
+    <!- -->
+    <string name="main_ADID">ca-app-pub-1232384027425912/5114434584</string>
+    <string name="detail_ADID">ca-app-pub-1232384027425912/3299624188</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

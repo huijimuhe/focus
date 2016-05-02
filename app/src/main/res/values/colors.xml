@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background.seperator">#464646</color>
+    <color name="background.blank">#f4f4f4</color>
+    <color name="background.main">#4d7198</color>
+    <color name="background.sub">#76B4ED</color>
+    <color name="text.main">#f6f6f6</color>
+    <color name="text.sub">#c9c9c9</color>
+    <color name="colorPrimary">#CBAC8A</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#CBAC8A</color>
+</resources>
